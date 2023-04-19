@@ -1,0 +1,4 @@
+1. jdk 20
+2. intellij idea
+3. git bash
+4. maven
